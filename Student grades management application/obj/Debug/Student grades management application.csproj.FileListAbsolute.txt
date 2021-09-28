@@ -1,0 +1,13 @@
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\bin\Debug\Student grades management application.exe.config
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\bin\Debug\Student grades management application.exe
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\bin\Debug\Student grades management application.pdb
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\obj\Debug\Student grades management application.csproj.AssemblyReference.cache
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\obj\Debug\Student_grades_management_application.Form1.resources
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\obj\Debug\Student_grades_management_application.Properties.Resources.resources
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\obj\Debug\Student grades management application.csproj.GenerateResource.cache
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\obj\Debug\Student grades management application.csproj.CoreCompileInputs.cache
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\obj\Debug\Student grades management application.csproj.CopyComplete
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\obj\Debug\Student grades management application.exe
+C:\Users\CT301728\source\repos\Student grades management application\Student grades management application\obj\Debug\Student grades management application.pdb
